@@ -1,2 +1,2 @@
 # Mi proyecto
-## Añadiendo contenido en la rama nueva-funcionalidad.
+## Añadiendo contenido en la rama nueva-funcionalidad
